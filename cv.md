@@ -1,5 +1,5 @@
 <ol>
-  <li> **Name** : Hanna </li>
+  <li> **Name** : Hanna Nahornaya </li>
   <li> **Citizenship** : Belarus </li>
   <li> **Date of birth** : 13.09.1991 </li>
   </ol>
